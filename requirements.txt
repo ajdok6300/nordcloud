@@ -15,3 +15,5 @@ ipython==5.8.0
 sqlalchemy-migrate==0.13.0
 urllib3==1.26.1
 pyodbc==4.0.30
+azure.identiy=1.26.1
+azure.keyvault=1.11.0
